@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/ananda-aditya"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:anandaaditya47@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="http://ananda-aditya.my.id"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=about.me&logoColor=white" alt="Website" /></a>
+  <a href="https://ananda-aditya.web.app/"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://twitter.com/aditzeb"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
@@ -18,6 +18,7 @@ I am the **Research & Development Lead** at **Meet Ventures, Pte. Ltd.** and an 
 
 - 🎓 **Education:** Senior Computer Science student at **Klabat University** (Faculty of Computer Science).
 - 💼 **Professional Experience:** Research & Development Lead at **Meet Ventures, Pte. Ltd.**
+- 🌐 **Portfolio:** Explore my projects and profile at [ananda-aditya.web.app](https://ananda-aditya.web.app/).
 - 🔬 **Research Collaborations:** Facilitate Southeast Asia (SEA) startup studies and research for faculty members at the **National University of Singapore (NUS)** and **Singapore Management University (SMU)**.
 - 🚀 **Grants & Funding:** Recipient of a **Solana Foundation Grant** through **Superteam Indonesia** for **Yunabite** (integrating AI-driven consumer mHealth with decentralized networks).
 - ⚙️ **AI Configuration & Tooling:** Skilled in building, configuring, and optimizing agentic architectures using **OpenClaw**, **Ollama**, local LLMs, and cognitive memory loops.
