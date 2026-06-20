@@ -11,6 +11,10 @@
   <a href="https://twitter.com/aditzeb"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditzeb&color=007acc&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🙋 About Me
@@ -30,83 +34,117 @@ I am the **Research & Development Lead** at **Meet Ventures, Pte. Ltd.** and an 
 
 ## 🔬 Featured Research & Publications
 
-### **Meta-Yunabite: A Memory-Driven Agentic Harness for Personalized Nutrition and Metabolic Monitoring in Consumer mHealth**
-*Ongoing Research — Academic Paper (In Preparation / Under Review)*
+<details open>
+<summary><b>Meta-Yunabite: A Memory-Driven Agentic Harness for Personalized Nutrition and Metabolic Monitoring in Consumer mHealth</b> (Ongoing Research)</summary>
+<br>
 
 A framework that transitions the mobile health paradigm into a self-optimizing closed-loop ecosystem using **Gemini 3.5 Flash** and a tiered memory system:
 - **Short-Term Memory (STM):** Vision-based meal scanning (nutrition mapping) and conversational health biomarker logs.
 - **Long-Term Memory (LTM):** Persistent user profile configurations stored in `Agent.md` base context (updated dynamically by trace reflection).
 - **Meta-Harness Loop:** An autonomous agent that monitors Firestore telemetry logs, detects user behavioral drifts, and injects natural language rule patches back into the LLM system prompt.
 - **Tech Stack:** FlutterFlow, Firebase Cloud Functions (Node.js), Firestore, Gemini 3.5 API.
+</details>
 
 ---
 
 ## 💼 Professional Experience
 
-### **Meet Ventures, Pte. Ltd.** (Singapore & Indonesia | Hybrid)
-*Research & Development Lead (Senior Associate)* | **Apr 2024 – Present**
+<details open>
+<summary><b>Meet Ventures, Pte. Ltd.</b> (Singapore & Indonesia | Hybrid) — Research & Development Lead</summary>
+<br>
+
+#### **Research & Development Lead (Senior Associate)** | *Apr 2024 – Present*
 - **Deal Sourcing & Operations:** Spearheaded end-to-end deal sourcing and investment operations for early-stage B2B and infrastructure ventures in APAC.
 - **Product Lead ("Pitch Vault"):** Partnered with NUS & SMU to build and launch a scalable pitching assessment tool, streamlining operations for demo days involving **600+ founders** and **200+ investors**.
 - **Global Accelerator Programs:** Managed high-stakes acceleration programs for **KOCCA** (Korea), **HKSTP** (Hong Kong), and **JETRO** (Japan) to expand startups into Southeast Asia.
 
-*Associate (Research & Development)* | **Mar 2023 – Apr 2024**
+#### **Associate (Research & Development)** | *Mar 2023 – Apr 2024*
 - **Centralized Platform:** Architected proprietary digital systems onboarding and scaling **50+ regional startups** with centralized resources.
 - **Data Scraping & Mining:** Engineered automated market-mapping scraping algorithms, converting raw data into investment thesis insights.
+</details>
 
----
+<br>
 
-### **Yuna Bite** (Global | Hybrid)
+<details>
+<summary><b>Yuna Bite</b> (Global | Hybrid) — Co-Founder & Product Lead</summary>
+<br>
+
 *Co-Founder & Product Lead (iOS & Android)* | **Jun 2025 – Present**
 - **Grants & Funding:** Secured and managed a **Solana Foundation Grant** through **Superteam Indonesia** to integrate AI-driven consumer mHealth with decentralized networks.
 - **Personalization Pivot:** Steered a rapid 3-month sprint pivot to establish Product-Market Fit (PMF) focused on consumer nutrition personalization (deployed as the Yunabite app).
 - **Cloud Architecture:** Designed scalable, cost-optimized Google Cloud Platform (GCP) configurations to minimize operational burn rate.
+</details>
 
----
+<br>
 
-### **Digital Hunter: Talent Arena** (Indonesia)
+<details>
+<summary><b>Digital Hunter: Talent Arena</b> (Indonesia) — Co-Founder & CTO (Acquired/Exited)</summary>
+<br>
+
 *Co-Founder & CTO* | **Apr 2021 – Jan 2023** *(Acquired & Exited)*
 - **Product & IP Leadership:** Led full development (PWA, Android, iOS) and secured the computer program patent (**ID EC00202203132**).
 - **Exit Journey:** Successfully drove user scaling and engagement metrics, graduating from the **100 Startup Digital program** (mentored by Achmad Zaky) prior to acquisition.
+</details>
 
----
+<br>
 
-### **Brain Byte (PT. Brain Byte Indonesia)** (Indonesia | Hybrid)
+<details>
+<summary><b>Brain Byte (PT. Brain Byte Indonesia)</b> (Indonesia | Hybrid) — Co-Founder & Product Lead</summary>
+<br>
+
 *Co-Founder & Product Lead* | **Mar 2021 – Mar 2023**
 - 🌾 **AgriTech (Tibo-Tibo):** Launched a direct-to-consumer marketplace connecting local farmers with urban buyers. Streamlined the agricultural supply chain and reduced friction using a Flutter-based mobile architecture.
 - 💳 **FinTech (Wealthy People):** Democratized financial education for students across Indonesia by building a cross-platform learning ecosystem. Led the product from concept to App Store launch, integrating complex financial tools with a user-friendly interface.
 - 🎓 **EdTech Platforms:** Engineered a scalable learning platform designed for accessibility, ensuring seamless delivery across web (PWA) and mobile to maximize user reach and retention.
 - 🏛️ **Civic Tech (Gov Apps):** Partnered with provincial and city governments to drive digital transformation. Delivered three public-service applications that modernized legacy processes and improved operational efficiency for citizens.
+</details>
 
----
+<br>
 
-### **Saskartech** & **Mana Tukang** (Indonesia)
+<details>
+<summary><b>Saskartech & Mana Tukang</b> (Indonesia) — Co-Founder & CTO / Co-Founder</summary>
+<br>
+
 *Co-Founder & CTO / Co-Founder* | **Jul 2020 – Jan 2023** *(Exited/Acquired)*
 - **Software Consultancy:** Scaled Saskartech software agency client base, improving development workflows.
 - **Mana Tukang:** Streamlined localized handyman hiring services and established service provider integrations.
+</details>
 
----
+<br>
 
-### **Kabar Manado** (Indonesia | Hybrid)
+<details>
+<summary><b>Kabar Manado</b> (Indonesia | Hybrid) — Web Developer</summary>
+<br>
+
 *Web Developer* | **Jan 2019 – Dec 2019**
 - **CMS & Platform Dev:** Developed a dynamic, responsive news platform with PHP architecture (CodeIgniter 4) and integrated WordPress CMS for seamless news publication.
 - **Client Relations:** Modernized news management tools, improving public relations with stakeholders at the Regional People's Representative Assembly.
+</details>
 
 ---
 
-## 📜 Patents & Intellectual Property
+<details>
+<summary><b>📜 Patents & Intellectual Property</b> (Click to expand)</summary>
+<br>
+
 - 🛡️ **Digital Hunter (Computer Program)**
   - Registered in Indonesia under Registration ID: **EC00202203132**
   - Secured during tenure as Co-Founder & CTO of Digital Hunter: Talent Arena.
+</details>
 
 ---
 
-## 🏆 Honors, Awards & University Activities (2019–2022)
+<details>
+<summary><b>🏆 Honors, Awards & University Activities (2019–2022)</b> (Click to expand)</summary>
+<br>
+
 - 🎓 **Magna Cum Laude Honor** Graduate (Computer Science, Klabat University).
 - 🥇 **1st Winner** – CORISINDO National Mobile Application Competition 2022.
 - 🥉 **3rd Winner** – INDONERIS National UI/UX Competition 2022.
 - 🏅 **4th Winner** – INDONERIS National Mobile Application Competition 2021.
 - 🏅 **4th Winner** – CORISINDO National Mobile Application Competition 2021.
 - 👥 **Head of Education** – Computer Science Student Association.
+</details>
 
 ---
 
