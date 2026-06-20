@@ -41,6 +41,15 @@ A framework that transitions the mobile health paradigm into a self-optimizing c
 
 ---
 
+## 📱 Featured Applications & Projects
+
+* 🌾 **AgriTech (Tibo-Tibo):** Launched a direct-to-consumer marketplace connecting local farmers with urban buyers. Streamlined the agricultural supply chain and reduced friction using a Flutter-based mobile architecture.
+* 💳 **FinTech (Wealthy People):** Democratized financial education for students across Indonesia by building a cross-platform learning ecosystem. Led the product from concept to App Store launch, integrating complex financial tools with a user-friendly interface.
+* 🎓 **EdTech:** Engineered a scalable learning platform designed for accessibility, ensuring seamless delivery across web (PWA) and mobile to maximize user reach and retention.
+* 🏛️ **Civic Tech (Gov Apps):** Partnered with provincial and city governments to drive digital transformation. Delivered three public-service applications that modernized legacy processes and improved operational efficiency for citizens.
+
+---
+
 ## 📜 Patents & Intellectual Property
 - 🛡️ **Digital Hunter (Computer Program)**
   - Registered in Indonesia under Registration ID: **EC00202203132**
