@@ -1,7 +1,7 @@
 # Hi there! I'm Ananda Aditya 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Ananda+Aditya;Software+Engineer+%26+Researcher;Specializing+in+Agentic+mHealth+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Ananda+Aditya;R%26D+Lead+at+Meet+Ventures;AI+%26+mHealth+Researcher" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,19 +14,20 @@
 ---
 
 ## 🙋 About Me
-I am a **Software Engineer & Researcher** specializing in mobile health (mHealth) systems, agentic AI architectures, and cross-platform mobile application development.
+I am the **Research & Development Lead** at **Meet Ventures, Pte. Ltd.** and an **AI/mHealth Researcher** specializing in agentic systems, cognitive AI architectures, and Web3 integrations.
 
 - 🎓 **Education:** Senior Computer Science student at **Klabat University** (Faculty of Computer Science).
-- 💼 **Professional Experience:** Software Engineer at **Meet Ventures, Pte. Ltd.**
+- 💼 **Professional Experience:** Research & Development Lead at **Meet Ventures, Pte. Ltd.**
+- 🚀 **Grants & Funding:** Recipient of a **Solana Foundation Grant** through **Superteam Indonesia** for **Yunabite** (integrating AI-driven consumer mHealth with decentralized networks).
 - 🧠 **Research Focus:** Cognitive architectures, tiered memory systems (STM/LTM) in LLM applications, and closed-loop agentic loops for consumer healthcare.
-- 💬 **Ask me about:** Flutter/Dart, Firebase backend architecture, LLM agent integration (specifically Gemini models), and LaTeX academic publishing.
+- 💬 **Ask me about:** Flutter/Dart, Firebase backend architecture, LLM agent integration (specifically Gemini models), Solana / Web3, and LaTeX academic publishing.
 
 ---
 
 ## 🔬 Featured Research & Publications
 
 ### **Meta-Yunabite: A Memory-Driven Agentic Harness for Personalized Nutrition and Metabolic Monitoring in Consumer mHealth**
-*Submitted to the IEEE Journal of Biomedical and Health Informatics (IEEE J-BHI)*
+*Ongoing Research — Academic Paper (In Preparation / Under Review)*
 
 A framework that transitions the mobile health paradigm into a self-optimizing closed-loop ecosystem using **Gemini 3.5 Flash** and a tiered memory system:
 - **Short-Term Memory (STM):** Vision-based meal scanning (nutrition mapping) and conversational health biomarker logs.
@@ -55,11 +56,12 @@ A framework that transitions the mobile health paradigm into a self-optimizing c
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### ☁️ Cloud & Backend Infrastructure
+### ☁️ Cloud, Backend & Web3 Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
 </p>
 
 ### 🔧 Software & Academic Tools
