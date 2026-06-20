@@ -40,6 +40,12 @@ A framework that transitions the mobile health paradigm into a self-optimizing c
 
 ---
 
+## 📜 Patents & Intellectual Property
+- 🛡️ **Digital Hunter (Computer Program)**
+  - Registered in Indonesia under Registration ID: **EC00202203132**
+
+---
+
 ## 🛠️ My Skill Space
 
 ### 💻 Programming Languages
