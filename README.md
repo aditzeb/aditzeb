@@ -18,9 +18,12 @@ I am the **Research & Development Lead** at **Meet Ventures, Pte. Ltd.** and an 
 
 - 🎓 **Education:** Senior Computer Science student at **Klabat University** (Faculty of Computer Science).
 - 💼 **Professional Experience:** Research & Development Lead at **Meet Ventures, Pte. Ltd.**
+- 🔬 **Research Collaborations:** Facilitate Southeast Asia (SEA) startup studies and research for faculty members at the **National University of Singapore (NUS)** and **Singapore Management University (SMU)**.
 - 🚀 **Grants & Funding:** Recipient of a **Solana Foundation Grant** through **Superteam Indonesia** for **Yunabite** (integrating AI-driven consumer mHealth with decentralized networks).
+- ⚙️ **AI Configuration & Tooling:** Skilled in building, configuring, and optimizing agentic architectures using **OpenClaw**, **Ollama**, local LLMs, and cognitive memory loops.
+- 🥞 **Full-Stack Stack:** Proficient in both **MERN** (MongoDB, Express, React, Node) and **FERN** (Flutter/Firebase, Express, React, Node) stacks.
 - 🧠 **Research Focus:** Cognitive architectures, tiered memory systems (STM/LTM) in LLM applications, and closed-loop agentic loops for consumer healthcare.
-- 💬 **Ask me about:** Flutter/Dart, Firebase backend architecture, LLM agent integration (specifically Gemini models), Solana / Web3, and LaTeX academic publishing.
+- 💬 **Ask me about:** Flutter/Dart, Firebase/MongoDB backend architectures, agentic configuration (Ollama, OpenClaw), Solana/Web3, and LaTeX academic publishing.
 
 ---
 
@@ -52,6 +55,7 @@ A framework that transitions the mobile health paradigm into a self-optimizing c
 ### 📱 Frontend & Mobile Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
@@ -59,9 +63,12 @@ A framework that transitions the mobile health paradigm into a self-optimizing c
 ### ☁️ Cloud, Backend & Web3 Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
+  <img src="https://img.shields.io/badge/Ollama-black?style=flat-square" alt="Ollama" />
 </p>
 
 ### 🔧 Software & Academic Tools
