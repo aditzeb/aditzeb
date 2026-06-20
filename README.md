@@ -1,160 +1,113 @@
-<h1 align="center">Hi , I'm Ananda Aditya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Hi there! I'm Ananda Aditya 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Ananda+Aditya;Software+Engineer+%26+Researcher;Specializing+in+Agentic+mHealth+Systems" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/ananda-aditya"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:anandaaditya47@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="http://ananda-aditya.my.id"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=about.me&logoColor=white" alt="Website" /></a>
+  <a href="https://twitter.com/aditzeb"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
 
+---
 
+## 🙋 About Me
+I am a **Software Engineer & Researcher** specializing in mobile health (mHealth) systems, agentic AI architectures, and cross-platform mobile application development.
 
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" width="280" height="280" alt="SubhadeepZilong" /></p>
+- 🎓 **Education:** Senior Computer Science student at **Klabat University** (Faculty of Computer Science).
+- 💼 **Professional Experience:** Software Engineer at **Meet Ventures, Pte. Ltd.**
+- 🧠 **Research Focus:** Cognitive architectures, tiered memory systems (STM/LTM) in LLM applications, and closed-loop agentic loops for consumer healthcare.
+- 💬 **Ask me about:** Flutter/Dart, Firebase backend architecture, LLM agent integration (specifically Gemini models), and LaTeX academic publishing.
 
+---
 
+## 🔬 Featured Research & Publications
 
-## :sassy_man:  About me
-- :school: I am a Senior at Faculty of Computer Science Klabat University
-- :trophy: `Visit [My Linkedin](https://linkedin.com/in/ananda-aditya).
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Dart`
-- :student: I’m currently learning: `Computer Science` .
-- :thinking: I’m currently open for: `Project` or a new `Job Opportunity`, this is [MY RESUME](http://ananda-aditya.my.id).
-- :nerd_face: Always `learning new things`
+### **Meta-Yunabite: A Memory-Driven Agentic Harness for Personalized Nutrition and Metabolic Monitoring in Consumer mHealth**
+*Submitted to the IEEE Journal of Biomedical and Health Informatics (IEEE J-BHI)*
 
-<br>
-<br>
+A framework that transitions the mobile health paradigm into a self-optimizing closed-loop ecosystem using **Gemini 3.5 Flash** and a tiered memory system:
+- **Short-Term Memory (STM):** Vision-based meal scanning (nutrition mapping) and conversational health biomarker logs.
+- **Long-Term Memory (LTM):** Persistent profile context stored in `Agent.md` updated through active trace reflection.
+- **Meta-Harness Loop:** An autonomous agent that monitors Firestore telemetry logs, detects user behavioral drifts, and injects natural language rule patches back into the LLM system prompt.
+- **Tech Stack:** FlutterFlow, Firebase Cloud Functions (Node.js), Firestore, Gemini 3.5 API.
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+---
 
-<br>
-<br>
+## 🛠️ My Skill Space
 
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+</p>
 
-## 👀 My Programming Profiles
+### 📱 Frontend & Mobile Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
+### ☁️ Cloud & Backend Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
 
-	<a href="https://www.linkedin.com/in/ananda-aditya/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<br>
-	
+### 🔧 Software & Academic Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
+</p>
 
+---
 
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+## 🏆 Git Profile Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aditzeb&layout=compact&theme=algolia" alt="aditzeb's trophies" />
   </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+</p>
+
+---
+
+## 📊 GitHub Analytics & Activity
+
+<p align="center">
+  <a href="https://github.com/aditzeb">
+    <img src="https://github-readme-stats.vercel.app/api?username=aditzeb&show_icons=true&count_private=true&theme=algolia" height="192px" alt="aditzeb's GitHub stats" />
   </a>
-</p>
-
-### 👉 Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-</p>
-
- ### 👉 Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
-</p>
-
- ### 👉 IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-</p>
-
-
- ### 👉 Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
-</p>
-
-<br/>
-
-## 📊 Github Stats
-
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ascendanc3&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+  <a href="https://github.com/aditzeb">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditzeb&langs_count=8&layout=compact&theme=algolia" height="192px" alt="aditzeb's top languages" />
+  </a>
+</p>
 
-----
+<p align="center">
+  <a href="https://github.com/aditzeb">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditzeb&theme=algolia" alt="aditzeb's streak stats" />
+  </a>
+</p>
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Ascendanc3"><img alt="Adit Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ascendanc3&custom_title=AD-IT's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+<p align="center">
+  <a href="https://github.com/aditzeb">
+    <img src="https://activity-graph.herokuapp.com/graph?username=aditzeb&custom_title=Contribution%20Graph&theme=react-dark" alt="aditzeb's contribution graph" />
+  </a>
+</p>
 
+---
 
-<br/>
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
-
------
-
+<p align="center">
+  <i>"Justify world with a single code"</i>
+</p>
