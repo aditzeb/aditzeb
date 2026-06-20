@@ -46,6 +46,16 @@ A framework that transitions the mobile health paradigm into a self-optimizing c
 
 ---
 
+## 🏆 Honors, Awards & University Activities (2019–2022)
+- 🎓 **Magna Cum Laude Honor** Graduate (Computer Science, Klabat University).
+- 🥇 **1st Winner** – CORISINDO National Mobile Application Competition 2022.
+- 🥉 **3rd Winner** – INDONERIS National UI/UX Competition 2022.
+- 🏅 **4th Winner** – INDONERIS National Mobile Application Competition 2021.
+- 🏅 **4th Winner** – CORISINDO National Mobile Application Competition 2021.
+- 👥 **Head of Education** – Computer Science Student Association.
+
+---
+
 ## 🛠️ My Skill Space
 
 ### 💻 Programming Languages
