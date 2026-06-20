@@ -35,7 +35,7 @@ I am the **Research & Development Lead** at **Meet Ventures, Pte. Ltd.** and an 
 
 A framework that transitions the mobile health paradigm into a self-optimizing closed-loop ecosystem using **Gemini 3.5 Flash** and a tiered memory system:
 - **Short-Term Memory (STM):** Vision-based meal scanning (nutrition mapping) and conversational health biomarker logs.
-- **Long-Term Memory (LTM):** Persistent profile context stored in `Agent.md` updated through active trace reflection.
+- **Long-Term Memory (LTM):** Persistent user profile configurations stored in `Agent.md` base context (updated dynamically by trace reflection).
 - **Meta-Harness Loop:** An autonomous agent that monitors Firestore telemetry logs, detects user behavioral drifts, and injects natural language rule patches back into the LLM system prompt.
 - **Tech Stack:** FlutterFlow, Firebase Cloud Functions (Node.js), Firestore, Gemini 3.5 API.
 
@@ -46,7 +46,7 @@ A framework that transitions the mobile health paradigm into a self-optimizing c
 ### **Meet Ventures, Pte. Ltd.** (Singapore & Indonesia | Hybrid)
 *Research & Development Lead (Senior Associate)* | **Apr 2024 – Present**
 - **Deal Sourcing & Operations:** Spearheaded end-to-end deal sourcing and investment operations for early-stage B2B and infrastructure ventures in APAC.
-- **Product Lead ("Pitch Vault"):** Partnered with NUS & SMU to build a scalable pitching assessment platform, streamlining operations for demo days with **600+ founders** and **200+ investors**.
+- **Product Lead ("Pitch Vault"):** Partnered with NUS & SMU to build and launch a scalable pitching assessment tool, streamlining operations for demo days involving **600+ founders** and **200+ investors**.
 - **Global Accelerator Programs:** Managed high-stakes acceleration programs for **KOCCA** (Korea), **HKSTP** (Hong Kong), and **JETRO** (Japan) to expand startups into Southeast Asia.
 
 *Associate (Research & Development)* | **Mar 2023 – Apr 2024**
@@ -57,8 +57,8 @@ A framework that transitions the mobile health paradigm into a self-optimizing c
 
 ### **Yuna Bite** (Global | Hybrid)
 *Co-Founder & Product Lead (iOS & Android)* | **Jun 2025 – Present**
-- **Capital & Advisory:** Deployed venture capital and structured high-touch advisory for the health-tech mobile startup.
-- **Personalization Pivot:** Steered a rapid 3-month sprint pivot to establish Product-Market Fit (PMF) focused on consumer nutrition personalization.
+- **Grants & Funding:** Secured and managed a **Solana Foundation Grant** through **Superteam Indonesia** to integrate AI-driven consumer mHealth with decentralized networks.
+- **Personalization Pivot:** Steered a rapid 3-month sprint pivot to establish Product-Market Fit (PMF) focused on consumer nutrition personalization (deployed as the Yunabite app).
 - **Cloud Architecture:** Designed scalable, cost-optimized Google Cloud Platform (GCP) configurations to minimize operational burn rate.
 
 ---
@@ -72,9 +72,10 @@ A framework that transitions the mobile health paradigm into a self-optimizing c
 
 ### **Brain Byte (PT. Brain Byte Indonesia)** (Indonesia | Hybrid)
 *Co-Founder & Product Lead* | **Mar 2021 – Mar 2023**
-- **AgriTech (Tibo-Tibo):** Launched a Flutter-based D2C farm-to-table supply marketplace.
-- **FinTech (Wealthy People):** Built and launched a student financial education ecosystem to the App Store.
-- **Civic Tech:** Partnered with city/provincial governments to deploy 3 digital public-service applications.
+- 🌾 **AgriTech (Tibo-Tibo):** Launched a direct-to-consumer marketplace connecting local farmers with urban buyers. Streamlined the agricultural supply chain and reduced friction using a Flutter-based mobile architecture.
+- 💳 **FinTech (Wealthy People):** Democratized financial education for students across Indonesia by building a cross-platform learning ecosystem. Led the product from concept to App Store launch, integrating complex financial tools with a user-friendly interface.
+- 🎓 **EdTech Platforms:** Engineered a scalable learning platform designed for accessibility, ensuring seamless delivery across web (PWA) and mobile to maximize user reach and retention.
+- 🏛️ **Civic Tech (Gov Apps):** Partnered with provincial and city governments to drive digital transformation. Delivered three public-service applications that modernized legacy processes and improved operational efficiency for citizens.
 
 ---
 
@@ -92,18 +93,10 @@ A framework that transitions the mobile health paradigm into a self-optimizing c
 
 ---
 
-## 📱 Featured Applications & Projects
-
-* 🌾 **AgriTech (Tibo-Tibo):** Launched a direct-to-consumer marketplace connecting local farmers with urban buyers. Streamlined the agricultural supply chain and reduced friction using a Flutter-based mobile architecture.
-* 💳 **FinTech (Wealthy People):** Democratized financial education for students across Indonesia by building a cross-platform learning ecosystem. Led the product from concept to App Store launch, integrating complex financial tools with a user-friendly interface.
-* 🎓 **EdTech:** Engineered a scalable learning platform designed for accessibility, ensuring seamless delivery across web (PWA) and mobile to maximize user reach and retention.
-* 🏛️ **Civic Tech (Gov Apps):** Partnered with provincial and city governments to drive digital transformation. Delivered three public-service applications that modernized legacy processes and improved operational efficiency for citizens.
-
----
-
 ## 📜 Patents & Intellectual Property
 - 🛡️ **Digital Hunter (Computer Program)**
   - Registered in Indonesia under Registration ID: **EC00202203132**
+  - Secured during tenure as Co-Founder & CTO of Digital Hunter: Talent Arena.
 
 ---
 
