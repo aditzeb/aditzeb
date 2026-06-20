@@ -41,6 +41,57 @@ A framework that transitions the mobile health paradigm into a self-optimizing c
 
 ---
 
+## 💼 Professional Experience
+
+### **Meet Ventures, Pte. Ltd.** (Singapore & Indonesia | Hybrid)
+*Research & Development Lead (Senior Associate)* | **Apr 2024 – Present**
+- **Deal Sourcing & Operations:** Spearheaded end-to-end deal sourcing and investment operations for early-stage B2B and infrastructure ventures in APAC.
+- **Product Lead ("Pitch Vault"):** Partnered with NUS & SMU to build a scalable pitching assessment platform, streamlining operations for demo days with **600+ founders** and **200+ investors**.
+- **Global Accelerator Programs:** Managed high-stakes acceleration programs for **KOCCA** (Korea), **HKSTP** (Hong Kong), and **JETRO** (Japan) to expand startups into Southeast Asia.
+
+*Associate (Research & Development)* | **Mar 2023 – Apr 2024**
+- **Centralized Platform:** Architected proprietary digital systems onboarding and scaling **50+ regional startups** with centralized resources.
+- **Data Scraping & Mining:** Engineered automated market-mapping scraping algorithms, converting raw data into investment thesis insights.
+
+---
+
+### **Yuna Bite** (Global | Hybrid)
+*Co-Founder & Product Lead (iOS & Android)* | **Jun 2025 – Present**
+- **Capital & Advisory:** Deployed venture capital and structured high-touch advisory for the health-tech mobile startup.
+- **Personalization Pivot:** Steered a rapid 3-month sprint pivot to establish Product-Market Fit (PMF) focused on consumer nutrition personalization.
+- **Cloud Architecture:** Designed scalable, cost-optimized Google Cloud Platform (GCP) configurations to minimize operational burn rate.
+
+---
+
+### **Digital Hunter: Talent Arena** (Indonesia)
+*Co-Founder & CTO* | **Apr 2021 – Jan 2023** *(Acquired & Exited)*
+- **Product & IP Leadership:** Led full development (PWA, Android, iOS) and secured the computer program patent (**ID EC00202203132**).
+- **Exit Journey:** Successfully drove user scaling and engagement metrics, graduating from the **100 Startup Digital program** (mentored by Achmad Zaky) prior to acquisition.
+
+---
+
+### **Brain Byte (PT. Brain Byte Indonesia)** (Indonesia | Hybrid)
+*Co-Founder & Product Lead* | **Mar 2021 – Mar 2023**
+- **AgriTech (Tibo-Tibo):** Launched a Flutter-based D2C farm-to-table supply marketplace.
+- **FinTech (Wealthy People):** Built and launched a student financial education ecosystem to the App Store.
+- **Civic Tech:** Partnered with city/provincial governments to deploy 3 digital public-service applications.
+
+---
+
+### **Saskartech** & **Mana Tukang** (Indonesia)
+*Co-Founder & CTO / Co-Founder* | **Jul 2020 – Jan 2023** *(Exited/Acquired)*
+- **Software Consultancy:** Scaled Saskartech software agency client base, improving development workflows.
+- **Mana Tukang:** Streamlined localized handyman hiring services and established service provider integrations.
+
+---
+
+### **Kabar Manado** (Indonesia | Hybrid)
+*Web Developer* | **Jan 2019 – Dec 2019**
+- **CMS & Platform Dev:** Developed a dynamic, responsive news platform with PHP architecture (CodeIgniter 4) and integrated WordPress CMS for seamless news publication.
+- **Client Relations:** Modernized news management tools, improving public relations with stakeholders at the Regional People's Representative Assembly.
+
+---
+
 ## 📱 Featured Applications & Projects
 
 * 🌾 **AgriTech (Tibo-Tibo):** Launched a direct-to-consumer marketplace connecting local farmers with urban buyers. Streamlined the agricultural supply chain and reduced friction using a Flutter-based mobile architecture.
