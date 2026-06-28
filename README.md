@@ -26,7 +26,7 @@ I build **agentic systems** with cognitive memory loops for consumer healthcare 
 |---|---|
 | 🏢 | **Meet Ventures (SG 🇸🇬)** — R&D Lead · Scaled *Pitch Vault* to 600+ founders & 200+ investors, and helping KOCCA, HKSTP & JETRO programs to penetrate SEA|
 | 🍎 | **Yunabite** — Co-Founder & Product Lead · Solana Foundation Grantee · AI-driven consumer mHealth on decentralized infra |
-| 🎓 | **Digital Hunter** — Co-Founder & CTO · Patented (`ID EC00202203132`) · Graduated 100 Startup Digital · Acquired & Exited |
+| 🎓 | **Digital Hunter** — Co-Founder & CTO · Patented (`ID EC00202203132`) · Graduated 1000 Startup Digital · Acquired & Exited |
 | 🧠 | **Meta-Yunabite** *(Active Research)* — Closed-loop agentic harness for personalized nutrition with tiered memory & self-patching prompts |
 | 🏅 | **Magna Cum Laude** · 🥇 CORISINDO 2022 · 🥉 INDONERIS 2022 |
 
