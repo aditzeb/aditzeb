@@ -16,7 +16,7 @@
 
 **R&D Lead @ [Meet Ventures](https://meetventures.com) (SG 🇸🇬)** · AI/mHealth Researcher · CS @ Klabat University  
 
-I build **agentic systems** with cognitive memory loops for consumer healthcare — researching STM/LTM tiered architectures in LLM applications. I also facilitate SEA startup research for **NUS & SMU** faculty, and hold a **Solana Foundation Grant** for [Yunabite](https://yunabite.app).
+I build **agentic systems** with cognitive memory loops for consumer healthcare — researching STM/LTM tiered architectures in LLM applications. I also facilitate SEA startup research for **NUS & SMU** faculty, and hold a **Solana Foundation Grant** for [Yunabite](https://yunabite.ai).
 
 ---
 
