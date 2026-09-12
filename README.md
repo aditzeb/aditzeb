@@ -141,7 +141,7 @@ A closed-loop agentic harness for **personalized nutrition and metabolic monitor
 
 [![Let's build something](https://img.shields.io/badge/LET'S_BUILD_SOMETHING-22D3EE?style=for-the-badge&logo=gmail&logoColor=070B18)](mailto:anandaaditya47@gmail.com)
 
-[Portfolio](https://ananda-aditya.web.app/) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/ananda-aditya)
+[Portfolio](https://ananda-aditya.web.app/) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/aditzeb)
 
 <sub>"Justify world with a single code."</sub>
 
