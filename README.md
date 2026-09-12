@@ -1,90 +1,104 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=30&pause=1000&color=007ACC&center=true&vCenter=true&width=520&lines=Hey+there%2C+I'm+Ananda+Aditya+%F0%9F%91%8B;R%26D+Lead+%C2%B7+AI+%26+mHealth+Researcher;Agentic+Systems+%C2%B7+Web3+%C2%B7+Flutter" alt="Typing SVG" />
+# Ananda Aditya
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananda-aditya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-007ACC?style=flat-square&logo=google-chrome&logoColor=white)](https://ananda-aditya.web.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anandaaditya47@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aditzeb)
-![Profile Views](https://komarev.com/ghpvc/?username=aditzeb&color=007acc&style=flat-square&label=Views)
+**R&D Lead · AI & mHealth Researcher · Product Builder**
 
-</div>
+Building memory-driven AI for better everyday health.<br>From startup ecosystems in Southeast Asia to consumer products on decentralized infrastructure.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ananda-aditya.web.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananda-aditya) [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandaaditya47@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-0F172A?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aditzeb)
 
-## ⚡ About Me
-
-**R&D Lead @ [Meet Ventures](https://meetventures.com) (SG 🇸🇬)** · AI/mHealth Researcher · CS @ Klabat University  
-
-I build **agentic systems** with cognitive memory loops for consumer healthcare — researching STM/LTM tiered architectures in LLM applications. I also facilitate SEA startup research for **NUS & SMU** faculty, and hold a **Solana Foundation Grant** for [Yunabite](https://yunabite.ai).
-
----
-
-## 🚀 Career Highlights
-
-| | |
-|---|---|
-| 🏢 | **Meet Ventures (SG 🇸🇬)** — R&D Lead · Scaled *Pitch Vault* to 600+ founders & 200+ investors, and helping KOCCA, HKSTP & JETRO programs to penetrate SEA. |
-| 🍎 | **Yunabite** — Co-Founder & Product Lead · Solana Foundation Grantee · AI-driven consumer mHealth on decentralized infra |
-| 🎓 | **Digital Hunter** — Co-Founder & CTO · Patented (`ID EC00202203132`) · Graduated 1000 Startup Digital · Acquired & Exited |
-| 🧠 | **Meta-Yunabite** *(Active Research)* — Closed-loop agentic harness for personalized nutrition with tiered memory & self-patching prompts |
-| 🏅 | **Magna Cum Laude** · 🥇 CORISINDO 2022 · 🥉 INDONERIS 2022 |
-
----
-
-## 🔬 Active Research — *Meta-Yunabite*
-
-> A memory-driven agentic harness for personalized nutrition & metabolic monitoring
-
-```
-STM  →  Vision-based meal scanning + real-time biomarker logs
-LTM  →  Persistent Agent.md profile, updated via trace reflection
-Loop →  Firestore telemetry monitor · detects behavioral drift · auto-patches system prompt
-```
-`FlutterFlow` · `Firebase Cloud Functions` · `Firestore` · `Gemini 3.5 Flash`
-
----
-
-## 🛠️ Tech Stack
-
-**Languages** &nbsp;
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-**Mobile & Frontend** &nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Backend & Cloud** &nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-**AI & Web3** &nbsp;
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square)
-`OpenClaw` `Gemini API` `Local LLMs`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aditzeb&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="175" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditzeb&langs_count=6&layout=compact&theme=algolia&hide_border=true" height="175" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditzeb&theme=algolia&hide_border=true" />
+[Selected work](#selected-work) &nbsp; / &nbsp; [Research](#research) &nbsp; / &nbsp; [Toolkit](#toolkit)
 
 </div>
 
 ---
 
+## At a glance
+
+I'm **Ananda**, R&D Lead at **[Meet Ventures](https://meetventures.com)** in Singapore and an AI/mHealth researcher with a Computer Science background from **Klabat University**.
+
+My work connects **agentic AI**, **consumer healthcare**, and **startup ecosystems**. I build LLM applications with short- and long-term memory, develop products at [Yunabite](https://yunabite.ai), and support Southeast Asia startup research for **NUS and SMU faculty**.
+
+| 600+ founders | 200+ investors | Solana Foundation |
+| :---: | :---: | :---: |
+| On Pitch Vault | On Pitch Vault | Yunabite grant recipient |
+
+## Selected work
+
+### Meet Ventures &nbsp; / &nbsp; R&D Lead
+
+Startup research and ecosystem development in Singapore and Southeast Asia.
+
+- Scaled **Pitch Vault** to **600+ founders and 200+ investors**.
+- Help **KOCCA, HKSTP, and JETRO** programs enter Southeast Asian markets.
+- Facilitate regional startup research for **NUS and SMU faculty**.
+
+### [Yunabite](https://yunabite.ai) &nbsp; / &nbsp; Co-Founder & Product Lead
+
+AI-driven consumer mHealth built on decentralized infrastructure.
+
+- **Solana Foundation grantee**, connecting healthcare products with Web3 infrastructure.
+- Researching personalized nutrition and metabolic monitoring through **Meta-Yunabite**.
+
+### Digital Hunter &nbsp; / &nbsp; Co-Founder & CTO
+
+Built a venture through the startup ecosystem to an acquisition and exit.
+
+- **1000 Startup Digital** graduate.
+- Patented work: **`ID EC00202203132`**.
+- **Acquired and exited**.
+
+**Education & recognition** &nbsp; Computer Science, Klabat University · **Magna Cum Laude** · **1st place, CORISINDO 2022** · **3rd place, INDONERIS 2022**
+
+## Research
+
+### Meta-Yunabite
+
+> Exploring how nutrition agents can remember context, reflect on behavior, and adapt over time.
+
+A closed-loop agentic harness for **personalized nutrition and metabolic monitoring**, with tiered memory and self-patching prompts.
+
+| Layer | Role in the system |
+| :--- | :--- |
+| **Short-term memory** | Vision-based meal scanning and real-time biomarker logs. |
+| **Long-term memory** | A persistent `Agent.md` profile, updated through trace reflection. |
+| **Feedback loop** | Firestore telemetry detects behavioral drift and triggers system-prompt updates. |
+
+**Research stack:** `FlutterFlow` · `Firebase Cloud Functions` · `Firestore` · `Gemini 3.5 Flash`
+
+## Toolkit
+
+![Dart](https://img.shields.io/badge/Dart-0F172A?style=flat-square&logo=dart&logoColor=54C5F8) ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=FFD43B) ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=54C5F8) ![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-0F172A?style=flat-square&logo=firebase&logoColor=FFCA28) ![Solana](https://img.shields.io/badge/Solana-0F172A?style=flat-square&logo=solana&logoColor=9945FF)
+
+| Focus | Technologies |
+| :--- | :--- |
+| **Languages** | Dart, Python, JavaScript, Java, C++ |
+| **Mobile & frontend** | Flutter, FlutterFlow, React, HTML5 |
+| **Backend & cloud** | Firebase, Cloud Functions, Firestore, Node.js, MongoDB, Google Cloud |
+| **AI & Web3** | Gemini API, Ollama, OpenClaw, local LLMs, Solana |
+
+<details>
+<summary><strong>GitHub activity</strong></summary>
+
+<br>
+
 <div align="center">
-  <i>"Justify world with a single code."</i>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditzeb&theme=algolia&hide_border=true" alt="Ananda Aditya's GitHub contribution totals, current streak, and longest streak" width="495" />
+
+</div>
+
+</details>
+
+---
+
+<div align="center">
+
+**Let's connect around AI, digital health, and startup research.**
+
+[Portfolio](https://ananda-aditya.web.app/) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/ananda-aditya) &nbsp; / &nbsp; [Email](mailto:anandaaditya47@gmail.com)
+
+<sub>"Justify world with a single code."</sub>
+
 </div>
