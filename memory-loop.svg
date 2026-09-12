@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="memory-title memory-desc">
+  <title id="memory-title">Meta-Yunabite / memory loop</title>
+  <desc id="memory-desc">Observe: Meals + biomarkers. Remember: STM + LTM context. Adapt: Reflect + update. Directional signals connect each stage, with a feedback arc returning from Adapt to Observe. All labels and arrows remain visible with reduced motion.</desc>
+  <defs>
+    <clipPath id="memory-clip"><rect x="1" y="1" width="958" height="238" rx="22"/></clipPath>
+    <pattern id="memory-grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#A78BFA" stroke-opacity=".05"/></pattern>
+    <linearGradient id="memory-edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE" stop-opacity=".4"/><stop offset=".5" stop-color="#A78BFA" stop-opacity=".2"/><stop offset="1" stop-color="#34D399" stop-opacity=".4"/></linearGradient>
+    <linearGradient id="memory-card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101B30"/><stop offset="1" stop-color="#0B1121"/></linearGradient>
+    <linearGradient id="memory-feedback" gradientUnits="userSpaceOnUse" x1="166" y1="218" x2="794" y2="218"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+    <marker id="memory-arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="8" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto"><path d="M1 1L7 4L1 7" fill="none" stroke="#C8F7FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+    <style>
+      text { font-family: 'Segoe UI', Arial, sans-serif; }
+      .memory-heading { fill: #EAF1FF; font-size: 28px; font-weight: 600; letter-spacing: -.3px; }
+      .memory-label { font-size: 30px; font-weight: 700; letter-spacing: 1px; }
+      .memory-subtitle { fill: #D5DFF0; font-size: 24px; }
+      .memory-mobile { display: none; fill: #D5DFF0; font-size: 34px; }
+      .memory-stream { animation: memory-forward 4s linear infinite; }
+      .memory-stream-late { animation-delay: -2s; }
+      .memory-return { animation: memory-feedback-flow 12s linear infinite; }
+      .memory-signal { animation: memory-breathe 6s ease-in-out infinite; }
+      .memory-signal-middle { animation-delay: -2s; }
+      .memory-signal-last { animation-delay: -4s; }
+      @keyframes memory-forward { to { stroke-dashoffset: -100; } }
+      @keyframes memory-feedback-flow { from { stroke-dashoffset: -330; } to { stroke-dashoffset: -1330; } }
+      @keyframes memory-breathe { 0%, 100% { opacity: .4; } 50% { opacity: .9; } }
+      @media (max-width: 600px) {
+        .memory-heading { font-size: 36px; }
+        .memory-label { font-size: 34px; letter-spacing: 0; transform: translateY(-8px); }
+        .memory-subtitle { display: none; }
+        .memory-mobile { display: inline; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        *, *::before, *::after { animation: none !important; }
+      }
+    </style>
+  </defs>
+  <g clip-path="url(#memory-clip)">
+    <path d="M0 0H960V240H0Z" fill="#070B18"/>
+    <path d="M0 0H960V240H0Z" fill="url(#memory-grid)"/>
+    <path d="M32 48H928" stroke="#A78BFA" stroke-opacity=".15"/>
+    <text x="32" y="35" class="memory-heading">Meta-Yunabite <tspan fill="#A78BFA">/</tspan> memory loop</text>
+    <path d="M794 196V204Q794 218 780 218H180Q166 218 166 204V198" fill="none" stroke="url(#memory-feedback)" stroke-opacity=".4" stroke-width="1.5" marker-end="url(#memory-arrow)"/>
+    <path d="M794 196V204Q794 218 780 218H180Q166 218 166 204V198" pathLength="1000" class="memory-return" fill="none" stroke="url(#memory-feedback)" stroke-width="3" stroke-linecap="round" stroke-dasharray="85 915" stroke-dashoffset="-330"/>
+    <g fill="none" stroke="#90B1CC" stroke-opacity=".6" stroke-width="1.5" marker-end="url(#memory-arrow)">
+      <path d="M301 132H341"/>
+      <path d="M615 132H655"/>
+    </g>
+    <path d="M304 132H337" pathLength="100" class="memory-stream" fill="none" stroke="#22D3EE" stroke-width="3" stroke-linecap="round" stroke-dasharray="24 76"/>
+    <path d="M618 132H651" pathLength="100" class="memory-stream memory-stream-late" fill="none" stroke="#34D399" stroke-width="3" stroke-linecap="round" stroke-dasharray="24 76"/>
+    <rect x="32" y="66" width="268" height="130" rx="16" fill="url(#memory-card)" stroke="#22D3EE" stroke-opacity=".5"/>
+    <path d="M54 85H88" stroke="#22D3EE" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="278" cy="85" r="3" fill="#22D3EE"/>
+    <circle cx="278" cy="85" r="7" class="memory-signal" fill="none" stroke="#22D3EE" stroke-opacity=".5"/>
+    <text x="52" y="121" class="memory-label" fill="#22D3EE">OBSERVE</text>
+    <text x="52" y="160" class="memory-subtitle">Meals + biomarkers</text>
+    <rect x="346" y="66" width="268" height="130" rx="16" fill="url(#memory-card)" stroke="#A78BFA" stroke-opacity=".55"/>
+    <path d="M368 85H402" stroke="#A78BFA" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="592" cy="85" r="3" fill="#A78BFA"/>
+    <circle cx="592" cy="85" r="7" class="memory-signal memory-signal-middle" fill="none" stroke="#A78BFA" stroke-opacity=".5"/>
+    <text x="366" y="121" class="memory-label" fill="#C4B5FD">REMEMBER</text>
+    <text x="366" y="160" class="memory-subtitle">STM + LTM context</text>
+    <rect x="660" y="66" width="268" height="130" rx="16" fill="url(#memory-card)" stroke="#34D399" stroke-opacity=".5"/>
+    <path d="M682 85H716" stroke="#34D399" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="906" cy="85" r="3" fill="#34D399"/>
+    <circle cx="906" cy="85" r="7" class="memory-signal memory-signal-last" fill="none" stroke="#34D399" stroke-opacity=".5"/>
+    <text x="680" y="121" class="memory-label" fill="#34D399">ADAPT</text>
+    <text x="680" y="160" class="memory-subtitle">Reflect + update</text>
+    <g class="memory-mobile" aria-hidden="true">
+      <text x="52" y="148">Meals +<tspan x="52" dy="35">biomarkers</tspan></text>
+      <text x="366" y="148">STM + LTM<tspan x="366" dy="35">context</tspan></text>
+      <text x="680" y="148">Reflect +<tspan x="680" dy="35">update</tspan></text>
+    </g>
+    <g fill="#070B18" stroke-width="1.5">
+      <circle cx="300" cy="132" r="3" stroke="#22D3EE"/>
+      <circle cx="346" cy="132" r="3" stroke="#A78BFA"/>
+      <circle cx="614" cy="132" r="3" stroke="#A78BFA"/>
+      <circle cx="660" cy="132" r="3" stroke="#34D399"/>
+      <circle cx="166" cy="196" r="3" stroke="#22D3EE"/>
+      <circle cx="794" cy="196" r="3" stroke="#34D399"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="958" height="238" rx="22" fill="none" stroke="url(#memory-edge)"/>
+</svg>

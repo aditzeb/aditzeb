@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="hero-title hero-desc">
+  <title id="hero-title">ADITZEB / Research &amp; Engineering</title>
+  <desc id="hero-desc">Build. Research. Repeat. Agentic AI / Digital health / Web3. A terminal turns ideas into impact beside an orbiting neural network. Motion is disabled when reduced motion is preferred.</desc>
+  <defs>
+    <clipPath id="hero-clip"><rect x="1" y="1" width="958" height="298" rx="24"/></clipPath>
+    <pattern id="hero-grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#A78BFA" stroke-opacity=".075"/></pattern>
+    <radialGradient id="hero-aura"><stop stop-color="#22D3EE" stop-opacity=".18"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <radialGradient id="hero-violet"><stop stop-color="#A78BFA" stop-opacity=".15"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+    <linearGradient id="hero-edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE" stop-opacity=".55"/><stop offset=".5" stop-color="#A78BFA" stop-opacity=".18"/><stop offset="1" stop-color="#34D399" stop-opacity=".4"/></linearGradient>
+    <linearGradient id="hero-type" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+    <linearGradient id="hero-core" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE" stop-opacity=".2"/><stop offset="1" stop-color="#A78BFA" stop-opacity=".12"/></linearGradient>
+    <style>
+      text { font-family: 'Segoe UI', Arial, sans-serif; }
+      .hero-kicker { fill: #C8D5EA; font-size: 18px; font-weight: 600; letter-spacing: 2px; }
+      .hero-headline { font-size: 56px; font-weight: 800; letter-spacing: -1.5px; }
+      .hero-subtitle { fill: #D5DFF0; font-size: 25px; }
+      .hero-terminal { fill: #E5EDF9; font-family: Consolas, 'Liberation Mono', monospace; font-size: 21px; }
+      .hero-orbit { animation: hero-spin 38s linear infinite; transform-origin: 0px 0px; }
+      .hero-orbit-back { animation: hero-spin 52s linear infinite reverse; transform-origin: 0px 0px; }
+      .hero-haze { animation: hero-drift 12s ease-in-out infinite; }
+      .hero-node { animation: hero-breathe 6s ease-in-out infinite; }
+      .hero-node-late { animation-delay: -3s; }
+      .hero-caret { animation: hero-blink 2.4s ease-in-out infinite; }
+      @keyframes hero-spin { to { transform: rotate(360deg); } }
+      @keyframes hero-drift { 0%, 100% { transform: translate(0px, 0px); } 50% { transform: translate(-18px, 12px); } }
+      @keyframes hero-breathe { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
+      @keyframes hero-blink { 0%, 25%, 100% { opacity: 1; } 60%, 75% { opacity: .12; } }
+      @media (max-width: 600px) {
+        .hero-network { display: none; }
+        .hero-kicker { font-size: 32px; letter-spacing: 1px; }
+        .hero-headline { font-size: 70px; }
+        .hero-subtitle { font-size: 40px; }
+        .hero-terminal { font-size: 32px; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        *, *::before, *::after { animation: none !important; }
+        .hero-caret { opacity: 1; }
+      }
+    </style>
+  </defs>
+  <g clip-path="url(#hero-clip)">
+    <path fill="#070B18" d="M0 0H960V300H0Z"/>
+    <path fill="url(#hero-grid)" d="M0 0H960V300H0Z"/>
+    <g class="hero-haze">
+      <ellipse cx="780" cy="116" rx="230" ry="190" fill="url(#hero-aura)"/>
+      <ellipse cx="438" cy="282" rx="350" ry="150" fill="url(#hero-violet)"/>
+    </g>
+    <path d="M40 1H226" stroke="#22D3EE" stroke-width="3" stroke-linecap="round"/>
+    <text x="40" y="43" class="hero-kicker">ADITZEB / RESEARCH &amp; ENGINEERING</text>
+    <text x="38" y="108" class="hero-headline" fill="#F1F5FF">BUILD. RESEARCH.</text>
+    <text x="38" y="170" class="hero-headline" fill="url(#hero-type)">REPEAT.</text>
+    <text x="40" y="211" class="hero-subtitle">Agentic AI / Digital health / Web3</text>
+    <g class="hero-network" transform="translate(780 126)" fill="none">
+      <circle r="100" stroke="#A78BFA" stroke-opacity=".16"/>
+      <path d="M-116 0H-104M104 0H116M0-116V-104M0 104V110" stroke="#A78BFA" stroke-opacity=".55"/>
+      <g class="hero-orbit">
+        <circle r="100" stroke="#22D3EE" stroke-opacity=".6" stroke-dasharray="52 105 8 149" stroke-linecap="round"/>
+        <circle cx="100" r="5" fill="#22D3EE"/>
+        <circle cx="100" r="11" stroke="#22D3EE" stroke-opacity=".28"/>
+        <circle cx="-100" r="4" fill="#A78BFA"/>
+      </g>
+      <g class="hero-orbit-back">
+        <ellipse rx="86" ry="48" transform="rotate(-32)" stroke="#A78BFA" stroke-opacity=".5"/>
+        <ellipse rx="86" ry="48" transform="rotate(32)" stroke="#22D3EE" stroke-opacity=".3"/>
+        <circle cx="73" cy="-45" r="5" fill="#A78BFA"/>
+        <circle cx="-73" cy="45" r="4" fill="#34D399"/>
+      </g>
+      <path d="M-64-25L-28-62L37-48L69 14L24 65L-49 48Z M-64-25L0 0L37-48M-28-62L0 0L69 14M-49 48L0 0L24 65" stroke="#22D3EE" stroke-opacity=".3" stroke-linejoin="round"/>
+      <g fill="#22D3EE">
+        <circle cx="-64" cy="-25" r="4"/>
+        <circle cx="69" cy="14" r="4"/>
+        <circle cx="-49" cy="48" r="4"/>
+      </g>
+      <g fill="#A78BFA">
+        <circle cx="-28" cy="-62" r="4"/>
+        <circle cx="37" cy="-48" r="4"/>
+        <circle cx="24" cy="65" r="4"/>
+      </g>
+      <g class="hero-node" stroke="#22D3EE" stroke-opacity=".6">
+        <circle cx="-64" cy="-25" r="9"/>
+        <circle cx="69" cy="14" r="9"/>
+      </g>
+      <g class="hero-node hero-node-late" stroke="#A78BFA" stroke-opacity=".6">
+        <circle cx="37" cy="-48" r="9"/>
+        <circle cx="24" cy="65" r="9"/>
+      </g>
+      <circle r="34" fill="#070B18" stroke="#34D399" stroke-opacity=".25"/>
+      <path d="M0-26L23-13V13L0 26L-23 13V-13Z" fill="url(#hero-core)" stroke="#34D399" stroke-width="1.5"/>
+      <path d="M-12 7L0-13L12 7M-7 0H7M0 12V17" stroke="#E4FFF5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle r="41" class="hero-node" stroke="#34D399" stroke-opacity=".18"/>
+    </g>
+    <rect x="32" y="235" width="896" height="45" rx="11" fill="#0C1427" stroke="#26374F"/>
+    <path d="M33 248V267" stroke="#34D399" stroke-width="2" stroke-linecap="round"/>
+    <text x="52" y="265" class="hero-terminal"><tspan fill="#34D399">&gt; </tspan>turning ideas into impact<tspan class="hero-caret" fill="#22D3EE"> ▎</tspan></text>
+  </g>
+  <rect x="1" y="1" width="958" height="298" rx="24" fill="none" stroke="url(#hero-edge)"/>
+</svg>

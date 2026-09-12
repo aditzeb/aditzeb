@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="24" viewBox="0 0 960 24" role="img" aria-labelledby="divider-title divider-desc">
+  <title id="divider-title">Orbital signal / decorative divider</title>
+  <desc id="divider-desc">A cyan, violet and mint signal line with softly moving data packets and five quiet network nodes. Reduced motion shows a static divider.</desc>
+  <defs>
+    <clipPath id="divider-clip"><rect width="960" height="24" rx="12"/></clipPath>
+    <linearGradient id="divider-line" gradientUnits="userSpaceOnUse" x1="16" y1="12" x2="944" y2="12"><stop stop-color="#22D3EE" stop-opacity="0"/><stop offset=".12" stop-color="#22D3EE"/><stop offset=".5" stop-color="#A78BFA"/><stop offset=".88" stop-color="#34D399"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></linearGradient>
+    <style>
+      .divider-packet { animation: divider-send 9s linear infinite; }
+      .divider-return { animation: divider-receive 13s linear infinite; }
+      .divider-halo { animation: divider-breathe 7s ease-in-out infinite; }
+      @keyframes divider-send { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -920; } }
+      @keyframes divider-receive { from { stroke-dashoffset: -460; } to { stroke-dashoffset: 460; } }
+      @keyframes divider-breathe { 0%, 100% { opacity: .25; } 50% { opacity: .6; } }
+      @media (prefers-reduced-motion: reduce) {
+        *, *::before, *::after { animation: none !important; }
+      }
+    </style>
+  </defs>
+  <g clip-path="url(#divider-clip)">
+    <rect width="960" height="24" rx="12" fill="#070B18"/>
+    <path d="M16 12H944" stroke="url(#divider-line)" stroke-width="8" opacity=".07" stroke-linecap="round"/>
+    <path d="M16 12H944" stroke="url(#divider-line)" stroke-width="1.5" opacity=".6"/>
+    <path d="M20 12H940" pathLength="920" class="divider-packet" stroke="#22D3EE" stroke-width="2.5" stroke-dasharray="32 888" stroke-linecap="round" opacity=".85"/>
+    <path d="M20 12H940" pathLength="920" class="divider-return" stroke="#A78BFA" stroke-width="2.5" stroke-dasharray="22 898" stroke-dashoffset="-460" stroke-linecap="round" opacity=".8"/>
+    <g fill="#070B18" stroke-width="1.5">
+      <circle cx="32" cy="12" r="3" stroke="#22D3EE"/>
+      <circle cx="256" cy="12" r="3" stroke="#22D3EE"/>
+      <circle cx="480" cy="12" r="4" stroke="#A78BFA"/>
+      <circle cx="704" cy="12" r="3" stroke="#34D399"/>
+      <circle cx="928" cy="12" r="3" stroke="#34D399"/>
+    </g>
+    <circle cx="480" cy="12" r="8" class="divider-halo" fill="none" stroke="#A78BFA" opacity=".4"/>
+    <circle cx="480" cy="12" r="1.5" fill="#EDE9FE"/>
+  </g>
+</svg>
