@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&pause=1400&color=22D3EE&center=true&vCenter=true&width=760&height=50&lines=Building+AI+that+remembers+and+adapts;R%26D+Lead+%2F+AI+%26+mHealth+Researcher;Agentic+Systems+%2F+Flutter+%2F+Web3" alt="Building AI that remembers and adapts. Agentic systems, Flutter, and Web3." width="760" />
 
-[![Portfolio](https://img.shields.io/badge/Explore_Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=070B18)](https://ananda-aditya.web.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=070B18)](https://linkedin.com/in/ananda-aditya) [![Email](https://img.shields.io/badge/Say_Hello-34D399?style=for-the-badge&logo=gmail&logoColor=070B18)](mailto:anandaaditya47@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-0B1121?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/aditzeb)
+[![Portfolio](https://img.shields.io/badge/Explore_Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=070B18)](https://ananda-aditya.web.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=070B18)](https://linkedin.com/in/aditzeb) [![Email](https://img.shields.io/badge/Say_Hello-34D399?style=for-the-badge&logo=gmail&logoColor=070B18)](mailto:anandaaditya47@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-0B1121?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/aditzeb)
 
 [Selected work](#selected-work) &nbsp; / &nbsp; [Research](#research) &nbsp; / &nbsp; [Toolkit](#toolkit) &nbsp; / &nbsp; [Activity](#github-activity)
 
